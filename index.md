@@ -6,7 +6,7 @@ Y.Li278@liverpool.ac.uk
 Master in Computer Science (MRes)  
 Department of Computer Science
 
-- **Xi’an Jiaotong-Liverpool University, China**  ***（Sept. 2018 - ** ***（May 2018 - September 2018）***）***  
+- **Xi’an Jiaotong-Liverpool University, China**  ***（Sept. 2018 - Present）***   
 Master in Computer Science (MRes)  
 Department of Computer Science and Software Engineering
 
