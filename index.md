@@ -28,7 +28,7 @@ Content：Use C# and .Net Framework related technologies, WebForm, ADO.Net and o
 
 - **Xi’an Jiaotong-Liverpool University**  ***（Feb. 2018 - Present）***  
 Position: Teaching Assistant  
-Content: Mainly Responsible for teaching and marking of two lessons (CSE104 Data Structure; CSE212 Object-oriented programming)
+Content: Mainly Responsible for teaching and marking (CSE104 Data Structure; CSE212 Object-oriented programming; CSE 203 Decision Computing and Language; CSE311 Mobile Computing; CSE313 Big Data Analysis)
 
 - **Xi’an Jiaotong-Liverpool University**  ***（Mar. 2018 - Present）***  
 Co-founder of Research Lab for Knowledge and Wisdom (XJTLU) （https://www.knowis.org/）
