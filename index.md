@@ -36,10 +36,10 @@ Co-founder of Research Lab for Knowledge and Wisdom (XJTLU) （https://www.knowi
 ## PROJECTS
 - **Research and Implementation of Intelligent Analysis System for Police and Case Voice Recording Based on Knowledge Graph and Machine Learning** 
   
-  Participated in the crime Knowledge Graph construction project in cooperation with the Suzhou Public Security Bureau, mainly responsible for Named Entity Recognition and Event Extraction.   (Suzhou Key Program Special Fund, *No. KSF-2019-P-02* )
+  Participated in the crime Knowledge Graph construction project in cooperation with the Suzhou Public Security Bureau. Mainly responsible for Relation Extraction in the case record (e.g. the relationship between the personnel involved in the case, the relationship between the items involved, and the relationship between the location and the character, etc.).    (Suzhou Key Program Special Fund, *No. KSF-2019-P-02* )
 - **Research on Electronic Medical Records automatic analysis and Robot construction Based on Speech Recognition and Machine Learning**  
   
-  With The Second Affiliated Hospital of Soochow University (Sino-France Friendship Hospital.), mainly responsible for the Named Entity Recognition and Event Extraction of the record of the case.  
+  A research project funded by Suzhou government and cooperate with The Second Affiliated Hospital of Soochow University. Mainly responsible for the medical professional Named Entity Recognition (e.g. ’drug’, ‘disease and diagnosis’, ‘surgery’ etc. ) and Relation Extraction (e.g. drug-disease relationship, that is to find out the positive effects and side effects of drugs on the specific  disease) from Electronic Medical Record.
  (Key Industry Technology Innovation - Forward-looking Research project of the China Suzhou Bureau of Science and Technology, *No. SYG201840* ) 
 
 - **NSFC(National Natural Science Foundation of China) Gernal Program: Research on Financial Systemic Risk Based on Artificial Intelligence Technology in the Background of Sino-US Trade Dispute**  
@@ -48,8 +48,7 @@ Co-founder of Research Lab for Knowledge and Wisdom (XJTLU) （https://www.knowi
 
 - **Application of Deep Reinforcement Learning model in the field of quantitative trading**  
 
-  Apply Deep Reinforcement Learning theory and models to the field of quantitative investment, verify the validity of the model through empirical data, and compare the benefits of three classical Deep Reinforcement Learning models.
-Publication: [An Empirical Research on the Investment Strategy of Stock Market Based on Deep Reinforcement Learning model](https://www.scitepress.org/PublicationsDetail.aspx?ID=F1RErCLle6I=&t=1 "‘An Empirical Research on the Investment Strategy of Stock Market Based on Deep Reinforcement Learning model")
+  Establish a comprehensive quantitative risk indicator system based on quantitative methods; Apply the Deep Reinforcement Learning algorithm in the field of artificial intelligence to the stock timing trading task, and the results are better than those of human decision
 
 ## PUBLICATIONS
 - **Li, Y.**, Ni, P., Chang, V. (2019) Application of Deep Reinforcement Learning in Stock Trading Strategies and Stock Fore-casting. ***Computing (2019)*** doi: 10.1007/s00607019-00773-w  (SCI; IF: 2.063)
